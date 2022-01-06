@@ -1,0 +1,676 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-18 08:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.1\n"
+"X-Domain: blog-lite"
+
+#: rigorous-themes/hooks/breadcrumb.php:43
+#, php-format
+msgid "%1$s Archive for %2$s"
+msgstr ""
+
+#: rigorous-themes/hooks/breadcrumb.php:45
+#, php-format
+msgid "%1$sPosts tagged %2$s"
+msgstr ""
+
+#: rigorous-themes/hooks/breadcrumb.php:44
+#, php-format
+msgid "%1$sSearch results for: %2$s"
+msgstr ""
+
+#: rigorous-themes/hooks/breadcrumb.php:46
+#, php-format
+msgid "%1$sView all posts by %2$s"
+msgstr ""
+
+#: image.php:68
+msgid "&larr; Previous"
+msgstr ""
+
+#: rigorous-themes/customizer/blog-lite-controls.php:23
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: header.php:170 rigorous-themes/template-tags.php:44
+#: rigorous-themes/template-tags.php:50
+msgid ", "
+msgstr ""
+
+#. %s: post title
+#: rigorous-themes/template-tags.php:59
+#: rigorous-themes/widgets/blog-lite-recent-post/blog-lite-recent-post.php:89
+#, php-format
+msgid "0 Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:29
+msgid ""
+"A widget that displays author bio with description, cover and profile "
+"picture."
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-recent-post/blog-lite-recent-post.php:24
+msgid ""
+"A widget that displays your latest posts and thumbnail with extended "
+"features."
+msgstr ""
+
+#: functions.php:123 functions.php:133 functions.php:143 functions.php:153
+msgid "Add widgets here."
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:108
+#: rigorous-themes/customizer/customizer.php:128
+#: rigorous-themes/customizer/customizer.php:140
+msgid "Address"
+msgstr ""
+
+#: footer.php:62
+msgid "Back To Top"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:205
+#: rigorous-themes/customizer/customizer.php:301
+msgid "Banner Image"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:427
+msgid "Blocks Type"
+msgstr ""
+
+#. Name of the theme
+msgid "Blog Lite"
+msgstr ""
+
+#: rigorous-themes/customizer/blog-lite-defaults.php:25
+#: rigorous-themes/customizer/customizer.php:311
+msgid "Blog Lite - Responsive Blog Theme"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Blog lite is a free responsive theme that allows you to create stunning "
+"blogs and websites. It has been engineered to be easy to use and fast. It is "
+"perfect for blogs, journals, news, photo blogging, writers, travelers, "
+"bloggers, business and other creative websites."
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:55
+msgid "Blog Lite Options"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-recent-post/blog-lite-recent-post.php:27
+msgid "Blog Lite: Recent Post Extended"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:33
+msgid "Blog Pro: Author Bio"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:353
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:432
+msgid "Category"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:448
+msgid "Category for featured blocks"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:220
+msgid "Category for slider"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:582
+msgid "Change length of the words used in post"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:236
+#: rigorous-themes/customizer/customizer.php:568
+msgid "Change text if you want to use other than \"Continue Reading\""
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:281
+msgid "Check to enable auto slider"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:378
+msgid "Check to enable breadcrumb"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:365
+msgid "Check to enable Breadcrumb on Homepage"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:554
+msgid "Check to hide meta data below title"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:233
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:262
+msgid "Choose Image"
+msgstr ""
+
+#: comments.php:50 comments.php:71
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:88
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: rigorous-themes/customizer/blog-lite-defaults.php:21
+#: rigorous-themes/customizer/blog-lite-defaults.php:42
+#: rigorous-themes/customizer/customizer.php:230
+#: rigorous-themes/customizer/customizer.php:562
+msgid "Continue Reading"
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content.php:61
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: rigorous-themes/customizer/blog-lite-defaults.php:46
+#: rigorous-themes/customizer/customizer.php:608
+msgid "Copyright 2016. All rights reserved"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:613
+msgid "Copyright Text"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:230
+msgid "Cover Photo"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:85
+msgid "cover-photo"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:318
+msgid "Disable Link in Profile Picture"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:313
+msgid "Disable Link in Title"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:626
+msgid "Disable Scroll to Top"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:600
+msgid "Disable Social links in footer"
+msgstr ""
+
+#. %s: Name of current post
+#: rigorous-themes/template-tags.php:66 template-parts/content-page.php:42
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:414
+msgid "Enable Featured Block"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:160
+msgid "Enable Slider or Banner"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:74
+msgid "Enable sticky header"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:465
+msgid ""
+"Enter id of posts in comma seperated form to display as featured blocks. Ex: "
+"911, 766, 1004"
+msgstr ""
+
+#: rigorous-themes/hooks/breadcrumb.php:47
+msgid "Error 404"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:581
+msgid "Excerpt Length"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-recent-post/blog-lite-recent-post.php:154
+msgid "Excerpt Length:"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:489
+#: rigorous-themes/hooks/social-links.php:28
+msgid "Facebook"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:257
+msgid "fadeIn"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:262
+msgid "fadeInDown"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:256
+msgid "fadeOut"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:258
+msgid "fadeOutDown"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:259
+msgid "fadeOutLeft"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:260
+msgid "fadeOutRight"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:261
+msgid "fadeOutUp"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:403
+msgid "Featured Block"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:267
+msgid "flipInX"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:589
+msgid "Footer"
+msgstr ""
+
+#: functions.php:131
+msgid "Footer: One"
+msgstr ""
+
+#: functions.php:151
+msgid "Footer: Three"
+msgstr ""
+
+#: functions.php:141
+msgid "Footer: Two"
+msgstr ""
+
+#: rigorous-themes/customizer/blog-lite-defaults.php:26
+#: rigorous-themes/customizer/customizer.php:325
+msgid "For stunning blogs and websites"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:497
+msgid "Google Plus"
+msgstr ""
+
+#: rigorous-themes/hooks/social-links.php:40
+msgid "Google+"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:63
+msgid "Header"
+msgstr ""
+
+#: rigorous-themes/custom-header.php:54
+msgctxt "header image description"
+msgid "computer-cup"
+msgstr ""
+
+#: rigorous-themes/custom-header.php:48
+msgctxt "header image description"
+msgid "notebook"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-recent-post/blog-lite-recent-post.php:162
+msgid "Hide Date and Comment"
+msgstr ""
+
+#: rigorous-themes/blog-lite-functions.php:73
+#: rigorous-themes/hooks/breadcrumb.php:42
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://rigorousthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://rigorousthemes.com/downloads/blog-lite/"
+msgstr ""
+
+#: rigorous-themes/blog-lite-functions.php:60
+msgid "Inner Page Banners"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:501
+#: rigorous-themes/hooks/social-links.php:46
+msgid "Instagram"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:288
+msgid "Intro Title"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try some other links "
+"or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:263
+msgid "lightSpeedIn"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:344
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:301
+msgid "Link"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:47
+msgid "Logo + Tagline"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:46
+msgid "Logo Only"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:107
+#: rigorous-themes/customizer/customizer.php:126
+msgid "Menu"
+msgstr ""
+
+#: comments.php:54 comments.php:75
+msgid "Newer Comments"
+msgstr ""
+
+#: image.php:69
+msgid "Next &rarr;"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-recent-post/blog-lite-recent-post.php:147
+msgid "Number of Posts:"
+msgstr ""
+
+#: comments.php:53 comments.php:74
+msgid "Older Comments"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:308
+msgid "Open in New Tab"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:57
+msgid "Option to change general settings"
+msgstr ""
+
+#: functions.php:179
+msgctxt "Oswald: on or off"
+msgid "on"
+msgstr ""
+
+#: rigorous-themes/hooks/breadcrumb.php:207
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: image.php:62 template-parts/content-page.php:31
+#: template-parts/content.php:71
+msgid "Pages:"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:433
+#: rigorous-themes/customizer/customizer.php:464
+msgid "Post IDs"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:520
+msgid "Post Options"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:449
+msgid ""
+"Posts of selected category will be used as 3 featured blocks below main "
+"slider"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:221
+msgid "Posts of selected category will be used as slides"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:252
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:281
+msgid "Preview"
+msgstr ""
+
+#: functions.php:64
+msgid "Primary"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:259
+msgid "Profile Picture"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:98
+msgid "profile-photo"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: functions.php:175
+msgctxt "Raleway: on or off"
+msgid "on"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:235
+#: rigorous-themes/customizer/customizer.php:567
+msgid "Read More Text"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Author of the theme
+msgid "Rigorous Themes"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:266
+msgid "rotateIn"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:264
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:265
+msgid "rotateOut"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:127
+msgid "Search Form"
+msgstr ""
+
+#: header.php:146
+#, php-format
+msgid "Search Results For: %s"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:255
+msgid "Select"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:233
+msgid "Select Cover Photo"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:262
+msgid "Select Profile Photo"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:395
+msgid "Separator between Breadcrumbs"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:295
+msgid "Short Bio"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:43
+msgid "Show"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:173
+msgid "Show Posted Date or Sub Title"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:186
+msgid "Show Read More button"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:87
+msgid "Show top header bar"
+msgstr ""
+
+#: functions.php:121 rigorous-themes/customizer/customizer.php:535
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:55
+msgid "Skip to content"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:149
+#: rigorous-themes/customizer/customizer.php:204
+msgid "Slider"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:199
+msgid "Slider Type"
+msgstr ""
+
+#: rigorous-themes/custom-header.php:42
+msgctxt "small-boy for default banner"
+msgid "small-boy"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:106
+#: rigorous-themes/customizer/customizer.php:125
+msgid "Social Icons"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:475
+msgid "Social Links"
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:330
+msgid "Sub Title"
+msgstr ""
+
+#. %s: theme
+#: rigorous-themes/hooks/credential.php:27
+#, php-format
+msgid "Theme of %s"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:316
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:223
+msgid "Title"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:49
+msgid "Title + Tagline"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:48
+msgid "Title Only"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-recent-post/blog-lite-recent-post.php:140
+msgid "Title:"
+msgstr ""
+
+#: functions.php:65
+msgid "Top Bar"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:101
+msgid "Top Bar Left Element"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:120
+msgid "Top Bar Right Element"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:249
+msgid "Transition Effect"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:493
+#: rigorous-themes/hooks/social-links.php:34
+msgid "Twitter"
+msgstr ""
+
+#: rigorous-themes/customizer/customizer.php:652
+msgid "Upgrade To  Blog Pro"
+msgstr ""
+
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:233
+#: rigorous-themes/widgets/blog-lite-author/inc/widget.php:262
+msgid "Upload"
+msgstr ""
