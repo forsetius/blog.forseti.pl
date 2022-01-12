@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.8.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-01-05 06:51:09+0000\n"
+"PO-Revision-Date: 2022-01-07 16:58:48+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11097,42 +11097,42 @@ msgid "off"
 msgstr "on"
 
 #. translators: Used to join items in a list with only 2 items.
-#: wp-includes/formatting.php:5133
+#: wp-includes/formatting.php:5138
 msgid "%1$s and %2$s"
 msgstr "%1$s i %2$s"
 
 #. translators: Used to join last two items in a list with more than 2 times.
-#: wp-includes/formatting.php:5131
+#: wp-includes/formatting.php:5136
 msgid "%1$s, and %2$s"
 msgstr "%1$s, i %2$s"
 
 #. translators: Used to join items in a list with more than 2 items.
-#: wp-includes/formatting.php:5129
+#: wp-includes/formatting.php:5134
 msgid "%1$s, %2$s"
 msgstr "%1$s, %2$s"
 
-#: wp-includes/formatting.php:4865
+#: wp-includes/formatting.php:4870
 msgid "https://wordpress.org/support/article/using-permalinks/#choosing-your-permalink-structure"
 msgstr "https://wordpress.org/support/article/using-permalinks/#choosing-your-permalink-structure"
 
 #. translators: %s: Documentation URL.
-#: wp-includes/formatting.php:4864
+#: wp-includes/formatting.php:4869
 msgid "A structure tag is required when using custom permalinks. <a href=\"%s\">Learn more</a>"
 msgstr "Znacznik strukturalny jest wymagany przy używaniu własnych bezpośrednich odnośników. <a href=\"%s\">Dowiedz się więcej</a>"
 
-#: wp-includes/formatting.php:4846
+#: wp-includes/formatting.php:4851
 msgid "The timezone you have entered is not valid. Please select a valid timezone."
 msgstr "Wybrano nieprawidłową strefę czasową. Proszę poprawić swój wybór."
 
-#: wp-includes/formatting.php:4787
+#: wp-includes/formatting.php:4792
 msgid "The Site address you entered did not appear to be a valid URL. Please enter a valid URL."
 msgstr "Wprowadzony adres witryny nie wydaje się być prawidłowym adresem URL. Proszę wprowadzić prawidłowy adres URL."
 
-#: wp-includes/formatting.php:4774
+#: wp-includes/formatting.php:4779
 msgid "The WordPress address you entered did not appear to be a valid URL. Please enter a valid URL."
 msgstr "Wprowadzony adres WordPressa nie wydaje się być prawidłowym adresem URL. Proszę wprowadzić prawidłowy adres URL."
 
-#: wp-includes/formatting.php:4664
+#: wp-includes/formatting.php:4669
 msgid "The email address entered did not appear to be a valid email address. Please enter a valid email address."
 msgstr "Wprowadzony adres email nie wydaje się być prawidłowy. Proszę wprowadzić prawidłowy adres email."
 
@@ -11140,26 +11140,26 @@ msgstr "Wprowadzony adres email nie wydaje się być prawidłowy. Proszę wprowa
 #. Asian characters), enter 'characters_excluding_spaces' or
 #. 'characters_including_spaces'. Otherwise, enter 'words'. Do not translate
 #. into your own language.
-#: wp-includes/formatting.php:3888 wp-includes/script-loader.php:1730
+#: wp-includes/formatting.php:3893 wp-includes/script-loader.php:1730
 #: wp-includes/js/dist/editor.js:10443
 msgctxt "Word count type. Do not translate!"
 msgid "words"
 msgstr "words"
 
-#: wp-includes/formatting.php:3876 wp-includes/general-template.php:4306
+#: wp-includes/formatting.php:3881 wp-includes/general-template.php:4306
 #: wp-admin/themes.php:249
 msgid "&hellip;"
 msgstr "&hellip;"
 
 #. translators: Maximum number of words used in a post excerpt.
-#: wp-includes/formatting.php:3827
+#: wp-includes/formatting.php:3832
 msgctxt "excerpt_length"
 msgid "55"
 msgstr "55"
 
 #. translators: Time difference between two dates, in years. %s: Number of
 #. years.
-#: wp-includes/formatting.php:3781
+#: wp-includes/formatting.php:3786
 msgid "%s year"
 msgid_plural "%s years"
 msgstr[0] "%s rok"
@@ -11168,7 +11168,7 @@ msgstr[2] "%s lat"
 
 #. translators: Time difference between two dates, in months. %s: Number of
 #. months.
-#: wp-includes/formatting.php:3774
+#: wp-includes/formatting.php:3779
 msgid "%s month"
 msgid_plural "%s months"
 msgstr[0] "%s miesiąc"
@@ -11177,7 +11177,7 @@ msgstr[2] "%s miesięcy"
 
 #. translators: Time difference between two dates, in weeks. %s: Number of
 #. weeks.
-#: wp-includes/formatting.php:3767
+#: wp-includes/formatting.php:3772
 msgid "%s week"
 msgid_plural "%s weeks"
 msgstr[0] "%s tydzień"
@@ -11185,7 +11185,7 @@ msgstr[1] "%s tygodnie"
 msgstr[2] "%s tygodni"
 
 #. translators: Time difference between two dates, in days. %s: Number of days.
-#: wp-includes/formatting.php:3760
+#: wp-includes/formatting.php:3765
 msgid "%s day"
 msgid_plural "%s days"
 msgstr[0] "%s dzień"
@@ -11195,7 +11195,7 @@ msgstr[2] "%s dni"
 #. translators: Time difference between two dates, in hours. %s: Number of
 #. hours.
 #. translators: %s: Time duration in hour or hours.
-#: wp-includes/formatting.php:3753 wp-includes/functions.php:530
+#: wp-includes/formatting.php:3758 wp-includes/functions.php:530
 msgid "%s hour"
 msgid_plural "%s hours"
 msgstr[0] "%s godzinę"
@@ -11204,7 +11204,7 @@ msgstr[2] "%s godzin"
 
 #. translators: Time difference between two dates, in minutes (min=minute). %s:
 #. Number of minutes.
-#: wp-includes/formatting.php:3746
+#: wp-includes/formatting.php:3751
 msgid "%s min"
 msgid_plural "%s mins"
 msgstr[0] "%s minutę"
@@ -11214,7 +11214,7 @@ msgstr[2] "%s minut"
 #. translators: Time difference between two dates, in seconds. %s: Number of
 #. seconds.
 #. translators: %s: Time duration in second or seconds.
-#: wp-includes/formatting.php:3739 wp-includes/functions.php:542
+#: wp-includes/formatting.php:3744 wp-includes/functions.php:542
 msgid "%s second"
 msgid_plural "%s seconds"
 msgstr[0] "%s sekunda"
@@ -11280,7 +11280,7 @@ msgid "&#8221;"
 msgstr "&#8221;"
 
 #. translators: Opening curly double quote.
-#: wp-includes/formatting.php:84 wp-includes/formatting.php:5455
+#: wp-includes/formatting.php:84 wp-includes/formatting.php:5460
 msgctxt "opening curly double quote"
 msgid "&#8220;"
 msgstr "&#8222;"
@@ -13342,7 +13342,7 @@ msgstr "Dodano:"
 msgid "Term ID is shared between multiple taxonomies"
 msgstr "Identyfikator terminu taksonomii jest współdzielony przez wiele taksonomii"
 
-#: wp-includes/class-wp-tax-query.php:645
+#: wp-includes/class-wp-tax-query.php:649
 msgid "Inexistent terms."
 msgstr "Nieistniejąca taksonomia."
 
@@ -15873,7 +15873,7 @@ msgstr "Nazwa menu"
 
 #: wp-includes/class-wp-customize-nav-menus.php:510
 msgid "Menu Locations"
-msgstr "Położenie menu"
+msgstr "Położenia menu"
 
 #: wp-includes/class-wp-customize-nav-menus.php:510
 #: wp-includes/js/dist/core-data.js:2010

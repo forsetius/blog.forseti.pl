@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.8.x - Administration - Network Admin package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-01-05 07:10:03+0000\n"
+"PO-Revision-Date: 2022-01-07 16:48:58+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -924,7 +924,7 @@ msgstr "Wybierz instalację w sub-domenach lub podkatalogach. Ustawienie to moż
 
 #: wp-admin/network.php:59
 msgid "This screen allows you to configure a network as having subdomains (<code>site1.example.com</code>) or subdirectories (<code>example.com/site1</code>). Subdomains require wildcard subdomains to be enabled in Apache and DNS records, if your host allows it."
-msgstr "Ten ekran pozwala na ustawienie sieci witryn jako korzystającej z adresów w postaci subdomen (<code>site1.example.com</code>) lub podkatalogów (<code>example.com/site1</code>). Użycie konfiguracji subdomenowej wymaga włączenia obsługi subdomen z wieloznacznikiem w konfiguracji Apache i DNS (jeśli Twój hosting na to pozwala)."
+msgstr "Tutaj można ustawić, czy sieć witryn ma korzystać z adresów w postaci domen (<code>site1.example.com</code>) lub podkatalogów (<code>example.com/site1</code>). Użycie konfiguracji domenowej wymaga włączenia ich obsługi w konfiguracji Apache i DNS (jeśli hosting na to pozwala)."
 
 #: wp-admin/network.php:55
 msgid "Create a Network of WordPress Sites"
