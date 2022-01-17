@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Wordfence Security &#8211; Firewall &amp; Malware Scan - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-01-05 06:58:57+0000\n"
+"PO-Revision-Date: 2022-01-14 08:17:30+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2920,7 +2920,7 @@ msgstr "IP źródła: %s"
 #. translators: Email address.
 #: lib/wfScanEngine.php:1482
 msgid "Email: %s"
-msgstr "E-mail: %s"
+msgstr "Adres e-mail: %s"
 
 #. translators: WordPress username.
 #: lib/wfScanEngine.php:1479
@@ -4611,7 +4611,7 @@ msgstr "Edycja"
 
 #: views/scanner/scan-scheduling.php:229
 msgid "Sunday"
-msgstr "Niedziela"
+msgstr "niedziela"
 
 #: views/scanner/scan-scheduling.php:228
 msgid "Saturday"
@@ -11968,7 +11968,7 @@ msgstr "Ustaw jawny adres URL witryny"
 
 #: lib/menu_tools_diagnostic.php:274 views/diagnostics/text.php:132
 msgid "Database collation"
-msgstr "Sortowanie w bazie danych"
+msgstr "Sposób porównywania w bazie danych"
 
 #: lib/menu_tools_diagnostic.php:273 views/diagnostics/text.php:131
 msgid "Database character set"

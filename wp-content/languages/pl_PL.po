@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.8.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-01-07 16:58:48+0000\n"
+"PO-Revision-Date: 2022-01-14 09:31:42+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -89,7 +89,7 @@ msgstr "Spektrum od chłodnego do ciepłego"
 #: wp-includes/theme.json
 msgctxt "Gradient name"
 msgid "Very light gray to cyan bluish gray"
-msgstr "Jesnoszary do średnioszarego"
+msgstr "Od jasnoszarego do pastelowego szaroniebieskiego"
 
 #: wp-includes/theme.json
 msgctxt "Gradient name"
@@ -2997,7 +2997,7 @@ msgstr "<strong>Błąd</strong>: Nie można zarejestrować, skontaktuj się z <a
 
 #: wp-includes/user.php:2947 wp-admin/includes/user.php:207
 msgid "<strong>Error</strong>: This email is already registered. Please choose another one."
-msgstr "<strong>Błąd</strong>: Adres email jest już zarejestrowany, proszę skorzystać z innego."
+msgstr "<strong>Błąd</strong>: Wprowadzony adres e-mail jest już zarejestrowany, proszę podać inny."
 
 #: wp-includes/user.php:2944 wp-includes/user.php:3228
 #: wp-admin/includes/user.php:203
@@ -4669,7 +4669,7 @@ msgstr "z"
 
 #: wp-includes/script-loader.php:847
 msgid "&lt; Prev"
-msgstr "&laquo; Poprzednie"
+msgstr "&lt; Poprzednie"
 
 #: wp-includes/script-loader.php:846
 msgid "Next &gt;"
@@ -6195,7 +6195,7 @@ msgstr "Brak uprawnień do włączenia wtyczki."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:671
 msgid "Sorry, you are not allowed to manage network plugins."
-msgstr "Brak uprawnień do zarządzania wtyczkami w sieci."
+msgstr "Brak uprawnień do zarządzania wtyczkami w sieci witryn."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:525
 msgid "Cannot delete an active plugin. Please deactivate it first."
@@ -8669,7 +8669,7 @@ msgstr "W odpowiedzi na: %s"
 #: wp-includes/pluggable.php:1668 wp-includes/pluggable.php:1852
 #: wp-includes/pluggable.php:2041
 msgid "Email: %s"
-msgstr "Email: %s"
+msgstr "Adres e-mail: %s"
 
 #. translators: 1: Comment author's name, 2: Comment author's IP address, 3:
 #. Comment author's hostname.
@@ -9725,7 +9725,7 @@ msgstr "Biblioteka mediów"
 
 #: wp-includes/media.php:4445
 msgid "Upload images"
-msgstr "Dodaj obrazki"
+msgstr "Wgraj obrazki"
 
 #: wp-includes/media.php:4444
 msgid "Upload files"
